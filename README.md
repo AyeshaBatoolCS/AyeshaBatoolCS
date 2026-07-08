@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**AyeshaBatoolCS/AyeshaBatoolCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Ayesha Batool 👋
+🎓 **BS Computer Science Student**
+Welcome to my GitHub profile! I enjoy learning new technologies and building projects to improve my programming and problem-solving skills.
+## 💻 Skills
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Python
+## 🌱 Currently Learning
+- UI/UX Design
+- Web Development
+- Python
+- Database Systems
+## 🚀 Featured Projects
+### 🎉 Event Management System
+A SQL-based database project with ER Diagram, SQL queries, and project documentation.
+### ▶️ YouTube Frontend Clone
+A responsive YouTube homepage built using HTML and CSS.
+### 🧮 Simple Calculator
+A calculator developed using HTML, CSS, and JavaScript.
+## 🎯 Career Goal
+I am continuously improving my skills by building projects and preparing for internships and international scholarship opportunities.
+## 📫 Connect With Me
+- GitHub: https://github.com/AyeshaBatoolCS
+⭐ Thank you for visiting my profile!

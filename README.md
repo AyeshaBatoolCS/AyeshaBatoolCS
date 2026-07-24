@@ -29,7 +29,6 @@ I believe in continuous learning and enjoy turning ideas into real-world solutio
 - JavaScript
 - SQL
 - Python
-- Git & GitHub
 - Figma
 - UI/UX Design
 - Database Design

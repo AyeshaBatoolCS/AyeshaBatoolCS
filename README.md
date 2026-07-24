@@ -95,13 +95,9 @@ My goal is to become a skilled Full Stack Software Developer by building real-wo
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn**
+💼 **LinkedIn:** https://www.linkedin.com/in/ayesha-batool-921396424
 
-www.linkedin.com/in/ayesha-batool-921396424
-
-💻 **GitHub**
-
-https://github.com/AyeshaBatoolCS
+💻 **GitHub:** https://github.com/AyeshaBatoolCS
 
 📍 **Location**
 
